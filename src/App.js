@@ -1,6 +1,4 @@
 import { useEffect } from "react";
-import { industriesData } from "./data/industriesData";
-import { countriesData } from "./data/countriesData";
 
 
 function useOutsideAlerter(ref, action) {
