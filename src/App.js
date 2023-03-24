@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import Button from "./components/Button";
 import ErrorMsg from "./components/Error";
 import { industriesData } from "./data/industries";
